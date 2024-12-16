@@ -2,6 +2,8 @@
 
 This is a simple backend API built with **Express.js** for managing users. It provides functionality for authentication, creating, updating, retrieving, and deleting users. The API uses **JWT** for authentication and **bcryptjs** for password hashing.
 
+demo: https://github.com/user-attachments/assets/93928e41-5651-4424-ba6d-025f383f2f25
+
 ## Features
 
 - **User Authentication**: Users can log in using their username and password, which are verified against stored credentials. JWT tokens are used for authentication.
