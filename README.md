@@ -27,7 +27,7 @@ This is a simple backend API built with **Express.js** for managing users. It pr
 1. Clone the repository:
    ```bash
    git clone https://github.com/sanjayagihan/user_management_backend
-   cd user-management-api
+   cd user_management_backend
 
 2. Install dependencies:
    ```bash
